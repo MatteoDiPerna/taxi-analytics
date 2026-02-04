@@ -1,0 +1,4 @@
+.venv
+
+notebooks/.ipynb_*
+.ipynb_*
